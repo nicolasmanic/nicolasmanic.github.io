@@ -9,7 +9,7 @@ name: Nick Kanakis
 description: Software engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/nicolasmanic/nicolasmanic.github.io/master/images/avatar.png
+avatar: https://raw.githubusercontent.com/nicolasmanic/nicolasmanic.github.io/master/images/avatar.jpeg
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email: nicolas.kanakis@gmail.com
   facebook:
   flickr:
-  github: https://www.github.com/nicolasmanic
+  github: nicolasmanic
   instagram:
-  linkedin: https://www.linkedin.com/in/nick-kanakis/
+  linkedin: nick-kanakis
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -41,7 +41,7 @@ google_analytics: UA-123459203-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://www.github.com/nicolasmanic
+url:
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
